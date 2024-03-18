@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Genie","l":"Genie()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Genie","l":"getGrantedWishes()"},{"p":"<Unnamed>","c":"Genie","l":"grantedWishes"},{"p":"<Unnamed>","c":"Genie","l":"grantWish()"},{"p":"<Unnamed>","c":"Genie","l":"toString()"}];updateSearchResults();
